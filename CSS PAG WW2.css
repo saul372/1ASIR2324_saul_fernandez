@@ -91,3 +91,10 @@ main {
     width: 300px;
 }
 
+#image2 {
+    float: right;
+    height: 400px;
+    width: 500px;
+}
+
+
