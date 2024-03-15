@@ -97,4 +97,7 @@ main {
     width: 500px;
 }
 
+a:hover {
+  color: red;
+}
 
